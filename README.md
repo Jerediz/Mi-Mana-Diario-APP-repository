@@ -1,16 +1,45 @@
-# mi_mana_diario
+<p align="center">
+    <img src="/assets/git/portada.png" alt="Mi Maná Diario Banner" style="width:100%; border-radius: 10px;" />
+</p>
 
-App Biblica
+# 📖 Mi Maná Diario
 
-## Getting Started
+**Mi Maná Diario** es una aplicación cristiana que te brinda una experiencia espiritual personalizada cada día. Diseñada para ayudarte a conectar con Dios a través de la lectura bíblica, reflexiones, anotaciones personales y una interfaz intuitiva.
 
-This project is a starting point for a Flutter application.
+> _"No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios."_  
+> – Mateo 4:4
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Características principales
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 **Capítulo bíblico diario** aleatorio con caché local.
+- 📝 **Notas personales** por capítulo: crear, editar, borrar, copiar, compartir.
+- ⭐ **Favoritos** para guardar tus reflexiones más importantes.
+- 🔐 **Inicio de sesión/registro con Firebase** (incluye recuperación de contraseña).
+- ☁️ **Almacenamiento en Firestore** por usuario, privado y seguro.
+- ⚙️ **Configuración de cuenta** (ver correo, cerrar sesión, cambiar contraseña).
+- 💬 **Sección de sugerencias y reportes** (Google Forms).
+- 📜 Acceso a **términos y condiciones** y **política de privacidad** desde la app.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+- **Flutter** – Framework principal
+- **Firebase Auth** – Registro e inicio de sesión
+- **Firestore** – Base de datos para notas
+- **HTTP** – Para obtener el capítulo diario desde [Scripture API](https://scripture.api.bible)
+- **Shared Preferences** – Caché local del capítulo diario
+- **Share Plus** – Compartir reflexiones o versículos
+- **Connectivity Plus** – Detección de conexión a internet
+- **FontAwesome Flutter** – Íconos modernos
+- **URL Launcher** – Para enlaces externos
+
+---
+
+## 🎥 Vista previa
+
+> Próximamente agregaremos capturas de pantalla o un demo en video.
+
+---
