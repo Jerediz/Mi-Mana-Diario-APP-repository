@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163624551132",
+    "project_id": "mimanadiario",
+    "storage_bucket": "mimanadiario.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163624551132:android:2d3ecf010097de73b6aa19",
+        "android_client_info": {
+          "package_name": "com.example.mi_mana_diario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163624551132-v8gs1f7jo22qngr8phm42adg21robnfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4hGrDNxhNLgwlzwoSBFCtz9O0zejnBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163624551132-v8gs1f7jo22qngr8phm42adg21robnfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
